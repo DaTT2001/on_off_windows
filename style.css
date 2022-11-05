@@ -1,0 +1,21 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.chat-box {
+    position: fixed;
+    position: absolute;
+    background-color: aqua;
+    height: 500px;
+    width: 500px;
+    top: 125px;
+    right: 500px;
+}
+.chat-box i {
+    float: right;
+    padding: 10px;
+    cursor: pointer;
+}
+.chat-box1 {
+    opacity: 0;
+}
